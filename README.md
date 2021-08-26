@@ -1,1 +1,1 @@
-# Python-Corona-Tracker
+# Python-Corona-Tracker.   import tkinder module
